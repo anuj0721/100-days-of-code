@@ -13,6 +13,6 @@ Coding is now Headmost priority
 #### **Link to my Linkedin :** [Linkedin](https://www.linkedin.com/in/kanhaiyaagnihotri/)
 
 <br>
-My Public Announcement:
+### My Public Announcement:
 
 
