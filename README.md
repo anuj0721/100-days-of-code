@@ -3,10 +3,16 @@
 Coding is now Headmost priority
 
 
-# 100 Days Of Code - Commitment
+## 100 Days Of Code - Commitment
 
 ### I am taking this challenge publicly and I would be sharing all of my code and updates with you for next 100 days.
 
 **Request:** I request you all to poke me and make me accountable if I fail to update on a single day.
 
 ### **Link to my Twitter :** [Twitter](https://twitter.com/kanhaiyaji14)
+### **Link to my Linkedin :** [Linkedin](https://www.linkedin.com/in/kanhaiyaagnihotri/)
+
+<br>
+My Public Announcement:
+
+
