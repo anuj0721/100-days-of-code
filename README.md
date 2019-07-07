@@ -12,7 +12,7 @@ Coding is now Headmost priority
 #### **Link to my Twitter :** [Twitter](https://twitter.com/kanhaiyaji14)
 #### **Link to my Linkedin :** [Linkedin](https://www.linkedin.com/in/kanhaiyaagnihotri/)
 
-<br>
+
 ### My Public Announcement:
 
 
