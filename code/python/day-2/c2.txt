@@ -1,0 +1,8 @@
+1. Convert celsius to Fahrenheit.
+2. Find ASCII value of given character.
+3. Check whether Entered Number is divisible by 5.
+4. Print first n natural numbers.
+
+# Medium level
+
+5. Find all the factors of a given number, like 25 (1, 5, 25). 40(1, 2, 4, 5, 8, 10, 20, 40).
