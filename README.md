@@ -14,5 +14,5 @@ Coding is now Headmost priority
 
 
 #### My Public Announcement:
-
+#### 1.: [My Twitter Commitment](https://twitter.com/kanhaiyaji14) 
 
