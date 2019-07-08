@@ -1,0 +1,11 @@
+1. Write a program to find the LCM and HCF of for given numbers.
+2. Write a program to remove duplicate strings from list of strings.
+3. Print n natural numbers in reverse order.
+4. Write a program to store grocery list into a text file and to fetch grocery items from file.
+   Sample Grocery list-
+   			Flour => 10 KG
+   			Rice => 10 KG
+   			Sugar => 5 KG
+   			Pulse 1 => 2 KG
+   			Pulse 2 => 2 KG
+   			Pulse 3 =>2 KG
