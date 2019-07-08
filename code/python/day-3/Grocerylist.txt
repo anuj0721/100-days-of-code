@@ -1,0 +1,1 @@
+{'Flour': '10 KG', 'Rice': '10 KG', 'Sugar': '5 KG', 'Pulse 1': '2 KG', 'Pulse 2': '2 KG', 'Pulse 3': '2 KG'}
