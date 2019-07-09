@@ -1,0 +1,8 @@
+Python Questions
+
+1. Check whether input number is positive, negative or zero.
+
+2. Create a program that randomly generated problems of (sum of two numbers and
+difference of two numbers) randomly. User sees a problem and then answer. Then
+prompt user with next problem. No need to terminate program by code, we shall
+solve that part later.
