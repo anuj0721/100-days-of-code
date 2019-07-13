@@ -2,9 +2,9 @@
 
 1. Find the pair/pairs of the elements which having the largest product.
 
-Example: {1, 5, 6, -3, 10, -10}
-So, largest product is 30 here and it should return
-{5,6} and {-3, -10}
+Example: [1, 4, 3, 6, 7, 0]
+So, largest product is 42 here and it should return
+[6,7]
 
 2. Reshuffle a given array(array with all unique values, so no duplicate in array) in way so that, every odd(including 1 too) index should be larger than it's left and right.
 
