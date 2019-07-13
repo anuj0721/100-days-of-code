@@ -6,7 +6,7 @@ Example: [1, 4, 3, 6, 7, 0]
 So, largest product is 42 here and it should return
 [6,7]
 
-2. Reshuffle a given array(array with all unique values, so no duplicate in array) in way so that, every even index should be larger than it's left and right.
+2. Reshuffle a given array(array with all unique values, so no duplicate in array) in way so that, every odd index should be larger than it's left and right.
 
 Example:
 input : {1, 3, 5, 4, 8, 10, 12}
