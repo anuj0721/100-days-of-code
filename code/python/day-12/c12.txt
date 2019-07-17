@@ -1,4 +1,6 @@
 # Day 12 problem set for Python Developers
 
-1. Convert an integer to binary number (number can be positive or negative)
-2. Convert an integer to Octal Number. (positive integer only)
+1. Convert an integer to binary number.(positive integer only)
+2. Convert an integer to Octal Number.(positive integer only)
+3. print first n odd natural numbers.
+4. print first n even natural numbers and in reverse order.
