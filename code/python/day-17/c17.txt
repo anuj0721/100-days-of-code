@@ -1,0 +1,3 @@
+Day 17 problem: Pattern
+
+1. Print stars (*) in right angle triangle shape pattern.
