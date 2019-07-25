@@ -1,0 +1,5 @@
+1. Count no of vowels present in a string.
+
+2. If user input a=0 the output will be b=1 and if a=1 then output should be b=0. Solve using logic not by using conditional statements.
+
+3. Print first n prime numbers.
