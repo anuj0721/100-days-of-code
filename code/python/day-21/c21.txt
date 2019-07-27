@@ -1,2 +1,4 @@
 Questions
-1.write a program to find the volume of sphere?
+1. write a program to find the volume of sphere?
+2. write a program to calculate the area of circle?
+3. wirte a program to find the area of triangle?
