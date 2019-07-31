@@ -1,0 +1,3 @@
+Questions...
+1.how to find square root?
+2.Class in Python
