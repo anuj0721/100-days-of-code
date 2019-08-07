@@ -1,2 +1,37 @@
 Questions...
 1.Python Program To Display Powers of 2 Using Anonymous Function
+
+2.You have to create a tax payroll calculator according to these income slabs.
+
+Annual Taxable Income
+
+Tax Percentage
+0 to 15,000
+5%
+15,001 to 40,000
+15%
+40,001 to 90,000
+28%
+90,001 to 150,000
+21%
+150,000 and over
+13%
+
+An example of withheld tax calculation goes like this. Sam is entitled to fortnightly payment of $1870. To calculate income tax applicable, an estimate of Xyz’s annual income is needed. There are 52.143 weeks in a year. An estimation of annual income will therefore be $1870 × 52.143 / 2 = $48,753.705 or $48,753 after rounding down. From the table, the applicable tax rate is 28%. Hence, the amount of tax to withhold will be 28% of $1870 = $523.60, and Xyz will be payed an after-tax salary of $1346.40 in this fortnight.
+
+
+
+
+Sample Output:
+
+Welcome to Tax Payroll Calculator
+------------------------------------------
+
+Please enter employee name: Xyz
+Please enter gross fortnightly payment for [Sam]: 1870
+Amount of tax to withhold: $523.60
+Salary payable to [Xyz]: $1346.40
+
+Do you want to calculate pay for another employee? (y/n): n
+
+Note: Use classes and functions and you can choose the name and payroll of your choice.
