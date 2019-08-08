@@ -1,0 +1,7 @@
+Python Questions
+1.Write a Python Program to Check Whether a String is Palindrome or Not.
+2.Write a Python Program to Remove Punctuations From a String.
+3.Print a Floyd Triangle of n rows. Note: Floyd's triangle is a right-angled triangular array of natural numbers, looks like-	1
+																2 3
+																4 5 6
+																7 8 9 10
