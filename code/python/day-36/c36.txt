@@ -1,0 +1,3 @@
+Questions
+1.Write a  program to get absolute value of a number using Python abs()
+2.how any() works with Python List?
