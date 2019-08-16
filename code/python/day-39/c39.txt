@@ -1,0 +1,4 @@
+Python Questions
+How all() works for lists?
+How ascii() method works?
+Get absolute value of a number
