@@ -1,0 +1,4 @@
+Python Build in Functions
+1.Convert integer to binary using bin()
+2.Convert an object to binary implementing __index__() method
+3.How bool() works?
