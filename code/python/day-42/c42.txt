@@ -1,0 +1,4 @@
+Python Questions
+1.How chr() works?
+2. Integer passed to chr() is out of the range
+3.How compile() works?
