@@ -1,0 +1,5 @@
+Python Questions
+1.Array of bytes from a string
+2.Array of bytes of given integer size
+3.Array of bytes from an iterable list
+4.How callable() works?
