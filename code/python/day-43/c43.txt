@@ -1,0 +1,4 @@
+Python Programs
+1.Create class method using classmethod()
+2.Create factory method using class method
+3.How class method works for inheritance?
