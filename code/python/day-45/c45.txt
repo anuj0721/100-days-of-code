@@ -1,0 +1,5 @@
+1.How delattr() works?
+2.Deleting Attribute Using del Operator
+3.Create Dictionary Using keyword arguments only
+4.Create Dictionary Using Iterable
+5.Create Dictionary Using Mapping
