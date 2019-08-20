@@ -1,0 +1,5 @@
+1.How divmod() works in Python?
+2.How dir() works?
+3.dir() on User-defined Object
+4.How enumerate() works in Python?
+5.Looping Over an Enumerate object
