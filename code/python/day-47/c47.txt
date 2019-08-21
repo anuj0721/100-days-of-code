@@ -1,0 +1,5 @@
+1. How round() works in Python?
+2.Round a number to given ndigits places
+3.How set() works for a sequence: string, tuple, list, range?
+4.How set() works for a collection: set, dictionary and frozen set?
+5.How set() works for custom iterable object?
