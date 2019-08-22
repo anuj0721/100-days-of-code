@@ -1,0 +1,5 @@
+1.How eval() works in Python?
+2.Practical Example to Demonstrate Use of eval()
+3.Number formatting with format()
+4.Number formatting with fill, align, sign, width, precision and type
+5.Using format() by overriding __format__()
