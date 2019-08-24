@@ -1,0 +1,5 @@
+Python Questions
+1.How hash() works in Python?
+2.hash() for immutable tuple object?
+3.hash() for Custom Objects by overriding __hash__()
+4.How help() works in Python?
