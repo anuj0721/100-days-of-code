@@ -3,3 +3,13 @@ Python Questions
 2.Hexadecimal representation of a float
 3.How id() works?Give examples on id()
 4.How input() works in Python?
+5.You are given a list of integers. 
+
+Write an program that brings all nonzero elements to the left of the list.
+
+The order of the nonzero elements does not matter. No Extra Space.
+
+Example: 
+Input - [ 1, 0, 2, 0, 0, 3, 4 ]
+
+a possible output is [ 4, 1, 3, 2, 0, 0, 0]
