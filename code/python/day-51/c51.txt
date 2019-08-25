@@ -1,0 +1,5 @@
+Python Questions
+1.How hex() works?
+2.Hexadecimal representation of a float
+3.How id() works?Give examples on id()
+4.How input() works in Python?
