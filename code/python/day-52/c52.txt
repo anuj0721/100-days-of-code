@@ -1,0 +1,18 @@
+1.Find minimum element in list.
+2.Find out the the minimum number from main_list, which will be greater than all the values of other list.
+
+Example: 
+main_list = [126, 110, 130] 
+
+list1 = [125] 
+list2 = [105, 115] 
+
+The minimum element of list main_list that is the maximum of list1 and list2 is 126.
+
+Rules - do not use inbuilt min max methods.
+
+3.How int() works in Python?
+4.How int() works for decimal, octal and hexadecimal?
+5.int() for custom objects.
+6.How isinstance() works?
+7.Working of isinstance() with Native Types.
