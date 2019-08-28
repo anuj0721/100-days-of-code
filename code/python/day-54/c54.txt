@@ -1,0 +1,27 @@
+1. Given a list of integers, find out the biggest interval, that has all its members in the given list.
+ 
+Example:
+1, 7, 4, 6, 3, 10, 2
+
+[1, 4]
+
+Because 1,2,3 and 4 are in list, which is biggest interval. Total four numbers.
+
+
+Example 2
+
+1, 3, 7, 5, 7, 4, 0, 9, 8, 10, 6
+
+Answer [3, 10]
+
+2. print stars in right angle triangle shape. Normal	*     and odd *  
+						        **	      *** 
+						        ***           *****
+						        ****	      *******
+						        *****         *********
+3. How locals() works in Python?
+4. How locals() works inside a local scope?
+5. Updating locals() dictionary values
+6. How map() works?
+7. How to use lambda function with map()?
+8. Passing Multiple Iterators to map() Using Lambda
