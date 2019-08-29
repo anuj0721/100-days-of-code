@@ -1,0 +1,34 @@
+1. Print pattern of stars in pyramid shape.      	 *
+                                                 	* *
+                                                       * * *
+                                               	      * * * *
+
+2. Print pattern of stars in reverse pyramid shape.     
+							* * * *
+                                                         * * *
+                                                          * *
+                                                           *
+
+
+
+3. Assume a=1, b=2, c=3,....z=26. Now, given a string, find all possible codes that string can generate. Give a count as well as print the strings. 
+
+   Rules - Do not use itertools methods.
+
+   Example: 
+   Input: 1123
+   You need to general all valid alphabet codes from this string. 
+
+   Output List 
+   aabc # a = 1, a = 1, b = 2, c = 3 
+   kbc # since k is 11, b = 2, c= 3 
+   alc # a = 1, l = 12, c = 3 
+   aaw # a= 1, a =1, w= 23 
+   kw # k = 11, w = 23
+
+4. How memoryview() works in Python?
+5. Modify internal data using memory view.
+6. Find minimum among the given numbers.
+7. Find number whose sum of digits is smallest using key function.
+8. Find list with minimum length using key function.
+                                            

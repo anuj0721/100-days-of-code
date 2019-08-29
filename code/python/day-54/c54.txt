@@ -14,11 +14,11 @@ Example 2
 
 Answer [3, 10]
 
-2. print stars in right angle triangle shape. Normal	*     and odd *  
-						        **	      *** 
-						        ***           *****
-						        ****	      *******
-						        *****         *********
+2. print stars in right angle triangle shape pattern. Normal   *     and odd      *  
+						               **	          *** 
+						               ***                *****
+						               ****	      	  *******
+						               *****              *********
 3. How locals() works in Python?
 4. How locals() works inside a local scope?
 5. Updating locals() dictionary values
