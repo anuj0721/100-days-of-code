@@ -1,0 +1,17 @@
+1. print stars in diamond shape. 	*
+   				       * *
+                                      * * *
+				       * *
+                                        *
+
+2. print stars in right angle triangle shape.  
+                                              ****
+                                              ***
+                                              **
+                                              *
+
+3.How next() works?
+4.Iterator With Default Value
+5.How object() works?
+6.How oct() works in Python?
+7.How oct() for custom objects by implementing __index__()?
