@@ -1,0 +1,24 @@
+1. print_stars_in_A_shape.  *** 
+                           *   *
+                           *   *
+                           * * *
+                           *   *
+                           *   *
+
+2. Given a nested list, you have to return a flattened list. Flattened list means, it should not contain any nested list inside. Items in each list cam be any object.
+
+Hint - Recursion
+
+Input1 = [1, [2,3], [4, [5, [[6, 7], 8]], 9]]
+
+Output - [1,2,3,4,5,6,7,8,9]
+
+Input2 - [1, ['hi', 6.87, [9], 10, ['python']]]
+
+Output - [1, 'hi', 6.87, 9, 10, 'python']
+
+4.How ord() works in Python?
+5.Create attribute with getter, setter and deleter using property()
+6.Create attribute with getter, setter and deleter using @property decorator
+7.How repr() works in Python?
+8.Implement __repr__() for custom objects?
