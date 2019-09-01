@@ -1,0 +1,15 @@
+1. print stars in B shape.
+                           ******
+                           *     *
+                           *     *
+                           ******
+                           *     *
+                           *     *
+                           ******
+
+2. Given value of x and y (both x and y are positive non zero integer). Find Last Digit of x^y.
+3. How reversed works for a sequence: string, tuple, list and range?
+4. How reversed works for custom objects by implementing __reversed__()?
+5. Create a static method using staticmethod()
+6. Create utility function as a static method
+7. How inheritance works with static method?
