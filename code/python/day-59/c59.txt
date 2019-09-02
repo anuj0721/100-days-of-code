@@ -1,0 +1,13 @@
+1. print stars in C shape.  
+                            *******
+                            *
+                            *
+                            *
+                            *
+                            *******
+
+2. How str() works in Python?
+3. How str() works for bytes?
+4. How sum() function works in Python?
+5. super() with Single Inheritance.
+6. super() with Multiple Inheritance.
