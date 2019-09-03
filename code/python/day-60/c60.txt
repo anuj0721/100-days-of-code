@@ -5,4 +5,4 @@
 				*    *
 				*****
 
-2. print first digit of sum of the array. 
+2. print first digit of sum of the list/array. 
