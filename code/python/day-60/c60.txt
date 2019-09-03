@@ -1,0 +1,8 @@
+1. print stars in D shape.  
+				*****
+                                *    *
+				*    *
+				*    *
+				*****
+
+2. print first digit of sum of the array. 
