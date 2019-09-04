@@ -1,0 +1,24 @@
+1. Find out Largest, Smallest, Second Largest, Second Smallest in a List.
+
+2. print stars in E shape. 
+				******
+				*
+				*
+				******
+				*
+				*
+				******
+
+3.Take a string(without space) as a input from user and print it in following pattern.
+  example- 
+  Input string "crazy"
+  Output:
+ "C-Rr-Aaa-Zzzz-Yyyyy"
+
+4. How to creating tuples using tuple()?
+5. How to get type of an object?
+6. Create a type object Using type()
+7. How vars() works?
+8. How zip() works in Python?
+9. Different Number of Elements in Iterables Passed to zip()
+10. Unzipping the Value Using zip()
