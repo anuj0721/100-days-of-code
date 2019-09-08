@@ -1,0 +1,13 @@
+1. print stars in I shape.  
+				*****
+				  *
+				  *
+				  *
+			  	  *
+			 	  *
+				*****
+
+2. Pick a random word from a list of words.
+3. Get last element of list.
+4. Remove Duplicates from list.
+5. Take a string list as input from user.
