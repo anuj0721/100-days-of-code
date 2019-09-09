@@ -1,0 +1,11 @@
+1. print stars in J shape.
+			        *****
+				  *
+				  *
+				  *
+			       *  *
+			       ****
+2. Build a Hangman game.
+3. Find Max Of Three numbers.
+4. Reverse word in a given string.
+				
