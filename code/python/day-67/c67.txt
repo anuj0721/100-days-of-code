@@ -1,0 +1,11 @@
+1. print stars in K shape. 
+ 			*      *
+			*    *
+			*  *
+			**
+			*  *
+			*    *
+			*      *
+2. Take only characters as input from user.
+3. Check primality function.
+4. Password generator. 
