@@ -7,4 +7,4 @@
 			*
 			*********
 
-2. Given a  list print out all elements less than 15.
+2. Take a  list of numbers as input from user and  print out all elements less than 15.
