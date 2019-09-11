@@ -1,0 +1,10 @@
+1. print stars in L shape.
+			*
+			*
+			*
+			*
+			*
+			*
+			*********
+
+2. Given a  list print out all elements less than 15.
