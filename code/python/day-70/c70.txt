@@ -1,0 +1,7 @@
+1.  print stars in N shape. 
+			*               *
+			*   *          *
+			*      *       *
+			*         *    *
+			*            * *       
+			*               *   
