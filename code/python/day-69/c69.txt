@@ -1,2 +1,8 @@
 1.  print stars in M shape.
+			*            *
+			*  *    *  *   
+			*     *     *
+			*            *
+			*            *
+			*            *
 2.  Rock paper scissor game.
