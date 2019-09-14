@@ -1,8 +1,8 @@
 1. print pattern of stars in O shape.
 				 *** 
-				*      *
-				*      *
-				*      *
-				*      *	
-				*      *
-				 *** 
+				*   *
+				*   *
+				*   *
+				*   *
+				*   *
+ 				*** 
