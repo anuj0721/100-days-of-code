@@ -8,7 +8,7 @@
  			 *** 
 			   * 
 
-2. print Alternate pattern of stars(*) and minus(-) in Q shape dynamically.
+2. print alternate pattern of stars(*) and minus(-) in Q shape dynamically.
 							 -*-* 
 							*    -
 							-    *
