@@ -5,7 +5,7 @@
 			*   *
 			*   *
 			**  *
- 			*** 
+ 			 *** 
 			   * 
 
 2. print pattern of stars(*) and minus(-) in Q shape dynamically.
