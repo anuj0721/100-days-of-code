@@ -1,0 +1,17 @@
+1. Print pattern of stars in alphabetical R shape.
+					**** 
+					*   *
+					*   *
+					**** 
+					**   
+					* *  
+					*  *
+
+2. Print pattern of stars in r shape.
+				* **
+				 *  
+				 *  
+				 *  
+				 * 
+
+3. Take  string as a input from user and remove any space in between the string and then  print reverse of string.
