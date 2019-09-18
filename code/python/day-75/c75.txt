@@ -1,0 +1,10 @@
+1. Print pattern of stars in S shape. 
+				****
+				*    
+				*    
+				 *** 
+				    *
+				    *
+				****
+
+2. Reverse a string without slicing. 
