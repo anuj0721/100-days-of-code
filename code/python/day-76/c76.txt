@@ -1,0 +1,9 @@
+1. print pattern of stars in T shape.
+				*****
+				  *  
+				  *  
+				  *  
+				  *  
+				  *  
+				  * 
+
