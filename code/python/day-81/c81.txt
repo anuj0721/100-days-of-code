@@ -1,0 +1,11 @@
+1. Python Program to Check Whether a Number is Positive or Negative.
+2. Python Program to Read Two Numbers and Print Their Quotient and Remainder.
+3. Python Program to Accept Three Digits and Print all Possible Combinations from the Digits.
+4. Python Program to Read a Number n And Print the Series “1+2+…..+n= “.
+5. Python Program to Find the Smallest Divisor of an Integer.
+6. Print pattern of stars in Y shape.
+				*   *
+				 * *
+				  *
+				  *
+				  *
