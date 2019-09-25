@@ -10,7 +10,6 @@
 
 **Request:** I request you all to poke me and make me accountable if I fail to update on a single day.
 
-#### **Link to my Twitter :** [Twitter](https://twitter.com/kanhaiyaji14)
 #### **Link to my Linkedin :** [Linkedin](https://www.linkedin.com/in/kanhaiyaagnihotri/)
 
 
