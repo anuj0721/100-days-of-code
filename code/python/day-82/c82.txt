@@ -1,0 +1,8 @@
+1. Print pattern of stars in Z shape.
+2. Python Program to Print Table of a Given Number.
+3. Python Program to Print Sum of Negative Numbers, Positive Even Numbers and Positive Odd numbers in a List.
+4. Python Program to Print Largest Even and Largest Odd Number in a List.
+5. Python Program to Form an Integer that has the Number of Digits at Ten’s Place and the Least Significant Digit of the Entered Integer at One’s Place.
+6. Python Program to Print the Pascal’s triangle for n number of rows given by the user.
+7. Python Program to Check if a Number is a Perfect Number.
+8. Python Program to Check if a Number is a Strong Number.
