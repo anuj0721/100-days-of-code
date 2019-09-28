@@ -1,0 +1,22 @@
+1.Python Program to Generate Random Numbers from 1 to 20 and Append Them to the List.
+2.Python program to Sort a List of Tuples in Increasing Order by the Last Element in Each Tuple.
+3.Python Program to Remove the Duplicate Items from a List.
+4.Python Program to Read a List of Words and Return the Length of the Longest One.
+5.Python Program to Remove the ith Occurrence of the Given Word in a List where Words can Repeat.
+6.Python Program to Remove All Tuples in a List of Tuples with the USN Outside the Given Range.
+7.Python Program to Replace all Occurrences of ‘a’ with $ in a String.
+8.Python Program to Remove the nth Index Character from a Non-Empty String.
+9. Python Program to print Number Triangle.
+
+					    1
+					   121
+					  12321
+					 1234321
+					123454321
+
+10. Python Program to Display Fibonacci Sequence Using Recursion.
+11. Python Program to Find Sum of Natural Numbers Using Recursion.
+12. Python Program to Find Factorial of Number Using Recursion.
+13. Python Program to Convert Decimal to Binary Using Recursion.
+14. Python Program to Add Two Matrices.
+15. Python Program to Transpose a Matrix.
