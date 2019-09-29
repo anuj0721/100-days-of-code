@@ -3,11 +3,11 @@ Ex -
 
 		Input : 5
 		Output :
-			   1
+			  1
 			 212
 			32123
 			 212
-			   1
+			  1
 
 2. Python Program to Detect if Two Strings are Anagrams.
 3. Python Program to Form a New String where the First Character and the Last Character have been Exchanged.
