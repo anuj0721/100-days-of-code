@@ -1,0 +1,11 @@
+1. Python Program to Accept a Hyphen Separated Sequence of Words as Inputand Print the Words in a Hyphen-Separated Sequence after 
+    Sorting them Alphabetically.
+2. Python Program to Calculate the Number of Digits and Letters in a String.
+3. Python Program to Form a New String Made of the First 2 and Last 2 characters From a Given String.
+4. Python Program to Count the Occurrences of Each Word in a Given String Sentence.
+5. Python Program to Check if a Substring is Present in a Given String.
+6. Python Program to Add a Key-Value Pair to the Dictionary.
+7. Python Program to Concatenate Two Dictionaries Into One.
+8. Python Program to Check if a Given Key Exists in a Dictionary or Not.
+9. Python Program to Calculate the Average of Numbers in a Given List.
+10. Python Program to Exchange the Values of Two Numbers Without Using a Temporary Variable.
