@@ -1,0 +1,10 @@
+1. Python Program to Find the Binary Equivalent of a Number Recursively.
+2. Python Program to Find the Sum of the Digits of the Number Recursively.
+3. Python Program to Find the Product of two Numbers Using Recursion.
+4. Python Program to Find the Power of a Number Using Recursion.
+5. Python Program to Reverse a String Using Recursion.
+6. Python Program to Flatten a Nested List using Recursion.
+7. Python Program to Find the Total Sum of a Nested List Using Recursion.
+8. Python Program to Find the Length of a List Using Recursion.
+9. Python Program to Check Whether a Number is Positive or Negative.
+10. Python Program to Take in the Marks of 5 Subjects and Display the Grade.
