@@ -1,0 +1,15 @@
+1. Python Program to Find if a Number is Prime or Not Prime Using Recursion.
+2. Python Program to Read a File and Capitalize the First Letter of Every Word in the File.
+3. Python Program to Read the Contents of a File in Reverse Order.
+4. Python Program to Read a Text File and Print all the Numbers Present in the Text File.
+5. Python Program to Read a String from the User and Append it into a File.
+6.  Python Program to Check if a Date is Valid and Print the Incremented Date if it is.
+7. Python Program to Compute Simple Interest Given all the Required Values.
+8.  Python Program to Check Whether a Given Year is a Leap Year.
+9. Python Program to Read Height in Centimeters and then Convert the Height to Feet and Inches.
+10. Python Program to Take the Temperature in Celcius and Covert it to Farenheit.
+11. Python Program to Compute Prime Factors of an Integer.
+12. Python Program to Generate all the Divisors of an Integer.
+13. Python Program to Print Table of a Given Number.
+14. Python Program to Print Sum of Negative Numbers, Positive Even Numbers and Positive Odd numbers in a List.
+15. Python Program to Print Largest Even and Largest Odd Number in a List.
