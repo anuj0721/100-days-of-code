@@ -1,0 +1,15 @@
+1. Python Program to Append the Contents of One File to Another File.
+2. Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File.
+3. Python Program to Find the Area of a Rectangle Using Classes.
+4. Python Program to Read a File and Capitalize the First Letter of Every Word in the File.
+5. Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File.
+6. Python Program to Read the Contents of a File.
+7. Python Program to Append, Delete and Display Elements of a List Using Classes.
+8. Python Program to Form an Integer that has the Number of Digits at Ten's Place and the Least Significant Digit of the Entered Integer at One's Place.
+9. Python Program to Find Those Numbers which are Divisible by 7 and Multiple of 5 in a Given Range of Numbers.
+10. Python Program to Check if a Number is an Armstrong Number.
+11. Python Program to Print the Pascal's triangle for n number of rows given by the user.
+12. Python Program to Check if a Number is a Perfect Number.
+13. Python Program to Check if a Number is a Strong Number using classes.
+14. Python Program to Find the LCM of Two Numbers using classes.
+15. Python Program to Find the GCD of Two Numbers using classes.
