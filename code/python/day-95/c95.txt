@@ -1,0 +1,10 @@
+1. Python Program to Clear the Rightmost Set Bit of a Number.
+2. Python Program to Generate Gray Codes using Recursion.
+3. Python Program to Convert Gray Code to Binary.
+4. Python Program to Convert Binary to Gray Code.
+5. Python Program to Find the Largest Number in a List.
+6. Python Program to Find the Second Largest Number in a List.
+7. Python Program to Put Even and Odd elements in a List into Two Different Lists.
+8. Python Program to Merge Two Lists and Sort it.
+9. Python Program to Sort the List According to the Second Element in Sublist.
+10. Python Program to Find the Second Largest Number in a List Using Bubble Sort.
