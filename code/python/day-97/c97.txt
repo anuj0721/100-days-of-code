@@ -1,0 +1,10 @@
+1. Python Program to Read a List of Words and Return the Length of the Longest One.
+2. Python Program to Remove the ith Occurrence of the Given Word in a List where Words can Repeat.
+3. Python Program to Remove All Tuples in a List of Tuples with the USN Outside the Given Range.
+4. Python Program to solve Maximum Subarray Problem using Divide and Conquer.
+5. Python Program to solve Maximum Subarray Problem using Kadane’s Algorithm.
+6. Python Program to Find Element Occurring Odd Number of Times in a List.
+7. Python Program to Replace all Occurrences of ‘a’ with $ in a String.
+8. Python Program to Remove the nth Index Character from a Non-Empty String.
+9. Python Program to Detect if Two Strings are Anagrams.
+10. Python Program to Form a New String where the First Character and the Last Character have been Exchanged.
