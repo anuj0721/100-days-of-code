@@ -1,0 +1,10 @@
+1. Python Programming Code to Solve Quadratic Equation.
+2. Python Programming Code to Calculate Circumference of Circle.
+3. Python Programming Code to Perform Addition Subtraction Multiplication Division.
+4. Python Programming Code to Matrix Multiplication.
+5. Python Program to Count Number of Lowercase Characters in a String.
+6. Python Program to Check if a String is a Palindrome or Not.
+7. Python Program to Calculate the Number of Upper Case Letters and Lower Case Letters in a String.
+8. Python Program to Check if a String is a Pangram or Not.
+9. Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically.
+10. Python Program to Calculate the Number of Digits and Letters in a String.
