@@ -6,5 +6,4 @@
 6. Python Program to Find Element Occurring Odd Number of Times in a List.
 7. Python Program to Replace all Occurrences of ‘a’ with $ in a String.
 8. Python Program to Remove the nth Index Character from a Non-Empty String.
-9. Python Program to Detect if Two Strings are Anagrams.
-10. Python Program to Form a New String where the First Character and the Last Character have been Exchanged.
+9. Python Program to Form a New String where the First Character and the Last Character have been Exchanged.
